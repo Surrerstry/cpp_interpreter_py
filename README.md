@@ -1,4 +1,4 @@
 # cpp_interpreter_py
 C++ Interpreter (Python)
 
-https://surrerstry.pl/formatted_dir
+https://surrerstry.pl/cpp_interpreter
